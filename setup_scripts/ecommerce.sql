@@ -3,37 +3,37 @@ CREATE DATABASE ecommerce;
 \connect ecommerce;
 
 CREATE TABLE usuarios(
-    id_usuario INTEGER PRIMARY KEY,
-    tipousuario VARCHAR(2),
+    id_usuario INTEGER,
+    tipousuario TEXT,
     fecha_registro DATE,
-    canal_registro SMALLINT,
-    ind_cliente SMALLINT,
-    ind_alta SMALLINT,
+    canal_registro INTEGER,
+    ind_cliente INTEGER,
+    ind_alta INTEGER,
     fecha_alta DATE,
     fecha_cliente DATE,
-    tipoemail VARCHAR(13),
-    bonad_email SMALLINT,
-    usu_telf VARCHAR(10),
+    tipoemail TEXT,
+    bonad_email INTEGER,
+    usu_telf TEXT,
     ipcasos INTEGER,
-    ip_country VARCHAR(30),
-    ip_region VARCHAR(30),
-    usu_tipo VARCHAR(50),
-    usu_tamanio VARCHAR(2),
-    usu_ciiu VARCHAR(5),
-    usu_estado VARCHAR(15),
-    usu_departamento VARCHAR(30)
+    ip_country TEXT,
+    ip_region TEXT,
+    usu_tipo TEXT,
+    usu_tamanio TEXT,
+    usu_ciiu TEXT,
+    usu_estado TEXT,
+    usu_departamento TEXT
 );
 
 CREATE TABLE consumos(
-    id_consumo INTEGER PRIMARY KEY,
-    idusuario INTEGER REFERENCES usuarios,
+    id_consumo INTEGER,
+    idusuario INTEGER,
     idproducto INTEGER,
-    descproducto VARCHAR(70),
+    descproducto TEXT,
     idgrupoprod INTEGER,
-    descgrupoprod VARCHAR(70),
+    descgrupoprod TEXT,
     fechaconsumo TIMESTAMP,
     empconsul_id INTEGER,
-    empconsul_ciiu VARCHAR(5),
-    empconsul_prov VARCHAR(15),
-    empconsul_est VARCHAR(15)
+    empconsul_ciiu TEXT,
+    empconsul_prov TEXT,
+    empconsul_est TEXT
 );
