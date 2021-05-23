@@ -385,4 +385,6 @@ dmypy.json
 .prof
 
 data/postgres-data
+data/files/00-original_data/consumos.txt
+data/files/00-original_data/usuarios.txt
 # End of https://www.toptal.com/developers/gitignore/api/pycharm,pycharm+iml,pycharm+all,python,macos
