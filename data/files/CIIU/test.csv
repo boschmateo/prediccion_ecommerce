@@ -1,0 +1,738 @@
+﻿"seccion_division";grupo;clase;descripcion
+SECCIÓN A;;;AGRICULTURA, GANADERÍA, CAZA Y SILVICULTURA
+DIVISIÓN 01;;;Agricultura, ganadería, caza y actividades de servicios conexas
+;011;;Producción específicamente agrícola
+;;0111;Producción especializada de café
+;;0112;Producción especializada de flor de corte y productos de vivero
+;;0113;Producción especializada de banano y plátano
+;;0114;Producción especializada de caña de azúcar
+;;0115;Producción especializada de cereales y oleaginosas
+;;0116;Producción especializada de hortalizas y legumbres
+;;0117;Producción especializada de frutas (excepto banano y plátano), nueces, plantas bebestibles (excepto café) y especias
+;;0118;Producción especializada de otros cultivos n.c.p.
+;;0119;Producción agrícola en unidades no especializadas
+;012;;Producción específicamente pecuaria
+;;0121;Cría especializada de ganado vacuno
+;;0122;Cría especializada de ganado porcino
+;;0123;Cría especializada de aves de corral
+;;0124;Cría especializada de ovejas, cabras, caballos, asnos, mulas y burdéganos
+;;0125;Cría especializada de otros animales n.c.p. y la obtención de sus productos
+;;0129;Actividad pecuaria no especializada
+;013;;Actividad mixta (agrícola y pecuaria)
+;;0130;Actividad mixta (agrícola y pecuaria)
+;014;;Actividades de servicios agrícolas y ganaderos, excepto las actividades veterinarias
+;;0140;Actividades de servicios agrícolas y ganaderos, excepto las actividades veterinarias
+;015;;Caza ordinaria y mediante trampas, y repoblación de animales de caza, incluso actividades de servicios conexas
+;;0150;Caza ordinaria y mediante trampas, y repoblación de animales de caza, incluso actividades de servicios conexas
+DIVISIÓN 02;;;Silvicultura, extracción de madera y actividades de servicios conexas
+;020;;Silvicultura, extracción de madera y actividades de servicios conexas
+;;0201;Silvicultura y extracción de la madera 
+;;0202;Actividades de servicios relacionadas con la silvicultura y la extracción de la madera
+DIVISIÓN 03;;;No asignada
+DIVISIÓN 04;;;No asignada
+SECCIÓN B;;;PESCA
+DIVISIÓN 05;;;Pesca, acuicultura y actividades de servicios relacionadas
+;050;;Pesca, acuicultura y actividades de servicios relacionadas
+;;0501;Pesca y actividades de servicios relacionadas
+;;0502;Acuicultura y actividades de servicios relacionadas
+DIVISIÓN 06;;;No asignada
+DIVISIÓN 07;;;No asignada
+DIVISIÓN 08;;;No asignada
+DIVISIÓN 09;;;No asignada
+SECCIÓN C;;;EXPLOTACIÓN DE MINAS Y CANTERAS
+DIVISIÓN 10;;;Extracción de carbón, carbón lignítico y turba
+;101;;Extracción y aglomeración de hulla (carbón de piedra)
+;;1010;Extracción y aglomeración de hulla (carbón de piedra)
+;102;;Extracción y aglomeración de carbón lignítico
+;;1020;Extracción y aglomeración de carbón lignítico
+;103;;Extracción y aglomeración de turba
+;;1030;Extracción y aglomeración de turba
+DIVISIÓN 11;;;Extracción de petróleo crudo y de gas natural, actividades de servicios relacionadas con la extracción de petróleo y de gas, excepto las actividades de prospección
+;111;;Extracción de petróleo crudo y de gas natural 
+;;1110;Extracción de petróleo crudo y de gas natural 
+;112;;Actividades de servicios relacionadas con la extracción de petróleo y gas, excepto las actividades de prospección 
+;;1120;Actividades de servicios relacionadas con la extracción de petróleo y gas, excepto las actividades de prospección 
+DIVISIÓN 12;;;Extracción de minerales de uranio y de torio
+;120;;Extracción de minerales de uranio y de torio
+;;1200;Extracción de minerales de uranio y de torio
+DIVISIÓN 13;;;Extracción de minerales metalíferos
+;131;;Extracción de minerales de hierro
+;;1310;Extracción de minerales de hierro
+;132;;Extracción de metales preciosos
+;;1320;Extracción de metales preciosos
+;133;;Extracción de minerales metalíferos no ferrosos, excepto los minerales de uranio y torio y metales preciosos
+;;1331;Extracción de minerales de níquel
+;;1339;Extracción de otros minerales metalíferos no ferrosos, excepto níquel
+DIVISIÓN 14;;;Explotación de minerales no metálicos
+;141;;Extracción de piedra, arena, arcillas, cal, yeso, caolín y bentonitas
+;;1411;Extracción de piedra, arena y arcillas comunes
+;;1412;Extracción de yeso y anhidrita
+;;1413;Extracción de caolín, arcillas de uso industrial y bentonitas
+;;1414;Extracción de arenas y gravas silíceas
+;;1415;Extracción de caliza y dolomita
+;142;;"Explotación de minerales para la fabricación de abonos y productos químicos; explotación de sal"
+;;1421;Extracción de minerales para la fabricación de abonos y productos químicos
+;;1422;Extracción de halita (sal)
+;143;;Extracción de piedras preciosas
+;;1431;Extracción de esmeraldas
+;;1432;Extracción de otras piedras preciosas y semipreciosas
+;149;;Extracción de otros minerales no metálicos n.c.p.
+;;1490;Extracción de otros minerales no metálicos n.c.p.
+SECCIÓN D;;;INDUSTRIAS MANUFACTURERAS
+DIVISIÓN 15;;;Elaboración de productos alimenticios y bebidas
+;151;;Producción, procesamiento y conservación de carne y pescado 
+;;1511;Producción, procesamiento y conservación de carne y productos cárnicos 
+;;1512;Procesamiento y conservación de pescado y productos de pescado 
+;152;;Procesamiento de frutas, legumbres, hortalizas, aceites y grasas
+;;1521;Procesamiento y conservación de frutas, legumbres y hortalizas 
+;;1522;Elaboración de aceites y grasas de origen vegetal y animal 
+;153;;Elaboración de productos lácteos 
+;;1530;Elaboración de productos lácteos 
+;154;;Elaboración de productos de molinería, almidones y productos derivados del almidón, y de alimentos preparados para animales
+;;1541;Elaboración de productos de molinería 
+;;1542;Elaboración de almidones y productos derivados del almidón 
+;;1543;Elaboración de alimentos preparados para animales
+;155;;No asignado
+;156;;Elaboración de productos de café 
+;;1561;Trilla de café 
+;;1562;Descafeinado 
+;;1563;Tostión y molienda del café 
+;;1564;Elaboración de otros derivados del café 
+;157;;Ingenios, refinerías de azúcar y trapiches 
+;;1571;Fabricación y refinación de azúcar 
+;;1572;Fabricación de panela 
+;158;;Elaboración de otros productos alimenticios 
+;;1581;Elaboración de cacao, chocolate y productos de confitería 
+;;1582;Elaboración de productos de panadería 
+;;1583;Elaboración de macarrones, fideos, alcuzcuz y productos farináceos similares 
+;;1589;Elaboración de otros productos alimenticios n.c.p.
+;159;;Elaboración de bebidas 
+;;1591;"Destilación, rectificación y mezcla de bebidas alcohólicas; producción de alcohol etílico a partir de sustancias fermentadas"
+;;1592;Elaboración de bebidas fermentadas no destiladas 
+;;1593;Producción de malta, elaboración de cervezas y otras bebidas malteadas 
+;;1594;"Elaboración de bebidas no alcohólicas; producción de aguas minerales "
+DIVISIÓN 16;;;Fabricación de productos de tabaco 
+;160;;Fabricación de productos de tabaco 
+;;1600;Fabricación de productos de tabaco 
+DIVISIÓN 17;;;Fabricación de productos textiles
+;171;;Preparación e hilatura de fibras textiles
+;;1710;Preparación e hilatura de fibras textiles
+;172;;Tejedura de productos textiles
+;;1720;Tejedura de productos textiles
+;173;;Acabado de productos textiles no producidos en la misma unidad de producción
+;;1730;Acabado de productos textiles no producidos en la misma unidad de producción
+;174;;Fabricación de otros productos textiles
+;;1741;Confección de artículos con materiales textiles no producidos en la misma unidad, excepto prendas de vestir
+;;1742;Fabricación de tapices y alfombras para pisos
+;;1743;Fabricación de cuerdas, cordeles, cables, bramantes y redes
+;;1749;Fabricación de otros artículos textiles n.c.p.
+;175;;Fabricación de tejidos y artículos de punto y ganchillo
+;;1750;Fabricación de tejidos y artículos de punto y ganchillo
+DIVISIÓN 18;;;"Confección de prendas de vestir; adobo y teñido de pieles"
+;181;;Confección de prendas de vestir, excepto prendas de piel
+;;1810;Confección de prendas de vestir, excepto prendas de piel
+;182;;"Adobo y teñido de pieles; fabricación de artículos de piel"
+;;1820;"Adobo y teñido de pieles; fabricación de artículos de piel"
+DIVISIÓN 19;;;"Curtido y adobo de cueros; fabricación de calzado; fabricación de artículos de viaje, maletas, bolsos de mano y similares; artículos de talabartería y guarnicionería"
+;191;;Curtido y adobo de cueros
+;;1910;Curtido y adobo de cueros
+;192;;Fabricación de calzado
+;;1921;Fabricación de calzado de cuero y piel, con cualquier tipo de suela, excepto el calzado deportivo
+;;1922;Fabricación de calzado de materiales textiles, con cualquier tipo de suela, excepto el calzado deportivo
+;;1923;Fabricación de calzado de caucho, excepto el calzado deportivo
+;;1924;Fabricación de calzado de plástico, excepto el calzado deportivo
+;;1925;Fabricación de calzado deportivo, incluso el moldeado
+;;1926;Fabricación de partes del calzado
+;;1929;Fabricación de calzado n.c.p.
+;193;;Fabricación de artículos de viaje, bolsos de mano y artículos similares, y fabricación de artículos de talabartería y guarnicionería 
+;;1931;Fabricación de artículos de viaje, bolsos de mano, artículos similares elaborados en cuero, y fabricación de artículos de talabartería y guarnicionería
+;;1932;Fabricación de artículos de viaje, bolsos de mano y artículos similares, elaborados en materiales sintéticos, plástico e imitaciones de cuero
+;;1939;Fabricación de artículos de viaje, bolsos de mano, y artículos similares elaborados con materiales n.c.p.
+DIVISIÓN 20;;;"Transformación de la madera y fabricación de productos de madera y de corcho, excepto muebles; fabricación de artículos de cestería y espartería"
+;201;;Aserrado, acepillado e impregnación de la madera
+;;2010;Aserrado, acepillado e impregnación de la madera
+;202;;"Fabricación de hojas de madera para enchapado; fabricación de tableros contrachapados, tableros laminados, tableros de partículas y otros tableros y paneles"
+;;2020;"Fabricación de hojas de madera para enchapado; fabricación de tableros contrachapados, tableros laminados, tableros de partículas y otros tableros y paneles"
+;203;;Fabricación de partes y piezas de carpintería para edificios y construcciones
+;;2030;Fabricación de partes y piezas de carpintería para edificios y construcciones
+;204;;Fabricación de recipientes de madera
+;;2040;Fabricación de recipientes de madera
+;209;;"Fabricación de otros productos de madera; fabricación de artículos de corcho, cestería y espartería"
+;;2090;"Fabricación de otros productos de madera; fabricación de artículos de corcho, cestería y espartería"
+DIVISIÓN 21;;;Fabricación de papel, cartón y productos de papel y cartón
+;210;;Fabricación de papel, cartón y productos de papel y cartón
+;;2101;"Fabricación de pastas celulósicas; papel y cartón."
+;;2102;Fabricación de papel y cartón ondulado, fabricación de envases, empaques y de embalajes de papel y cartón
+;;2109;Fabricación de otros artículos de papel y cartón
+DIVISIÓN 22;;;Actividades de edición e impresión y de reproducción de grabaciones
+;221;;Actividades de edición
+;;2211;Edición de libros, folletos y otras publicaciones
+;;2212;Edición de periódicos, revistas y publicaciones periódicas
+;;2213;Edición de Música 
+;;2219;Otros trabajos de edición
+;222;;Actividades de impresión
+;;2220;Actividades de impresión
+;223;;Actividades de servicios relacionadas con la impresión
+;;2230;Actividades de servicios relacionadas con la impresión
+;224;;Reproducción de grabaciones
+;;2240;Reproducción de grabaciones
+DIVISIÓN 23;;;Coquización, fabricación de productos de la refinación del petróleo y combustible nuclear
+;231;;Fabricación de productos de hornos de coque
+;;2310;Fabricación de productos de hornos de coque
+;232;;Fabricación de productos de la refinación del petróleo
+;;2321;Fabricación de productos de la refinación del petróleo, elaborados en refinería
+;;2322;Elaboración de productos derivados del petróleo, fuera de refinería
+;233;;Elaboración de combustible nuclear
+;;2330;Elaboración de combustible nuclear
+DIVISIÓN 24;;;Fabricación de sustancias y productos químicos
+;241;;Fabricación de sustancias químicas básicas
+;;2411;Fabricación de sustancias químicas básicas, excepto abonos y compuestos inorgánicos nitrogenados
+;;2412;Fabricación de abonos y compuestos inorgánicos nitrogenados
+;;2413;Fabricación de plásticos en formas primarias
+;;2414;Fabricación de caucho sintético en formas primarias
+;242;;Fabricación de otros productos químicos
+;;2421;Fabricación de plaguicidas y otros productos químicos de uso agropecuario
+;;2422;Fabricación de pinturas, barnices y revestimientos similares, tintas para impresión y masillas
+;;2423;Fabricación de productos farmacéuticos, sustancias químicas medicinales y productos botánicos
+;;2424;"Fabricación de jabones y detergentes, preparados para limpiar y pulir; perfumes y preparados de tocador"
+;;2429;Fabricación de otros productos químicos n.c.p.
+;243;;Fabricación de fibras sintéticas y artificiales
+;;2430;Fabricación de fibras sintéticas y artificiales
+DIVISIÓN 25;;;Fabricación de productos de caucho y de plástico
+;251;;Fabricación de productos de caucho
+;;2511;Fabricación de llantas y neumáticos de caucho
+;;2512;Reencauche de llantas usadas
+;;2513;Fabricación de formas básicas de caucho
+;;2519;Fabricación de otros productos de caucho n.c.p.
+;252;;Fabricación de productos de plástico
+;;2521;Fabricación de formas básicas de plástico
+;;2529;Fabricación de artículos de plástico n.c.p.
+DIVISIÓN 26;;;Fabricación de otros productos minerales no metálicos
+;261;;Fabricación de vidrio y productos de vidrio
+;;2610;Fabricación de vidrio y productos de vidrio
+;269;;Fabricación de productos minerales no metálicos n.c.p.
+;;2691;Fabricación de productos de cerámica no refractaria, para uso no estructural
+;;2692;Fabricación de productos de cerámica refractaria
+;;2693;Fabricación de productos de arcilla y cerámica no refractarias, para uso estructural
+;;2694;Fabricación de cemento, cal y yeso
+;;2695;Fabricación de artículos de hormigón, cemento y yeso
+;;2696;Corte, tallado y acabado de la piedra
+;;2699;Fabricación de otros productos minerales no metálicos n.c.p.
+DIVISIÓN 27;;;Fabricación de productos metalúrgicos básicos
+;271;;Industrias básicas de hierro y de acero
+;;2710;Industrias básicas de hierro y de acero
+;272;;Industrias básicas de metales preciosos y de metales no ferrosos
+;;2721;Industrias básicas de metales preciosos
+;;2729;Industrias básicas de otros metales no ferrosos 
+;273;;Fundición de metales
+;;2731;Fundición de hierro y de acero
+;;2732;Fundición de metales no ferrosos
+DIVISIÓN 28;;;Fabricación de productos elaborados de metal, excepto maquinaria y equipo
+;281;;Fabricación de productos metálicos para uso estructural, tanques, depósitos y generadores de vapor
+;;2811;Fabricación de productos metálicos para uso estructural
+;;2812;Fabricación de tanques, depósitos y recipientes de metal, excepto los utilizados para el envase o transporte de mercancías
+;;2813;Fabricación de generadores de vapor, excepto calderas de agua caliente para calefacción central
+;289;;Fabricación de otros productos elaborados de metal y actividades de servicios relacionadas con el trabajo de metales
+;;2891;"Forja, prensado, estampado y laminado de metal; pulvimetalurgia"
+;;2892;"Tratamiento y revestimiento de metales; trabajos de ingeniería mecánica en general realizados a cambio de una retribución o por contrata"
+;;2893;Fabricación de artículos de cuchillería, herramientas de mano y artículos de ferretería
+;;2899;Fabricación de otros productos elaborados de metal n.c.p.
+DIVISIÓN 29;;;Fabricación de maquinaria y equipo n.c.p.
+;291;;Fabricación de maquinaria de uso general
+;;2911;Fabricación de motores y turbinas, excepto motores para aeronaves, vehículos automotores y motocicletas
+;;2912;Fabricación de bombas, compresores, grifos y válvulas
+;;2913;Fabricación de cojinetes, engranajes, trenes de engranajes y piezas de transmisión
+;;2914;Fabricación de hornos, hogares y quemadores industriales
+;;2915;Fabricación de equipo de elevación y manipulación
+;;2919;Fabricación de otros tipos de maquinaria de uso general n.c.p.
+;292;;Fabricación de maquinaria de uso especial
+;;2921;Fabricación de maquinaria agropecuaria y forestal
+;;2922;Fabricación de máquinas herramienta
+;;2923;Fabricación de maquinaria para la metalurgia
+;;2924;Fabricación de maquinaria para la explotación de minas y canteras y para obras de construcción
+;;2925;Fabricación de maquinaria para la elaboración de alimentos, bebidas y tabaco
+;;2926;Fabricación de maquinaria para la elaboración de productos textiles, prendas de vestir y artículos de cuero
+;;2927;Fabricación de armas y municiones
+;;2929;Fabricación de otros tipos de maquinaria de uso especial n.c.p.
+;293;;Fabricación de aparatos de uso doméstico n.c.p.
+;;2930;Fabricación de aparatos de uso doméstico n.c.p.
+DIVISIÓN 30;;;Fabricación de maquinaria de oficina, contabilidad e informática
+;300;;Fabricación de maquinaria de oficina, contabilidad e informática
+;;3000;Fabricación de maquinaria de oficina, contabilidad e informática
+DIVISIÓN 31;;;Fabricación de maquinaria y aparatos eléctricos n.c.p.
+;311;;Fabricación de motores, generadores y transformadores eléctricos 
+;;3110;Fabricación de motores, generadores y transformadores eléctricos 
+;312;;Fabricación de aparatos de distribución y control de la energía eléctrica
+;;3120;Fabricación de aparatos de distribución y control de la energía eléctrica
+;313;;Fabricación de hilos y cables aislados
+;;3130;Fabricación de hilos y cables aislados
+;314;;Fabricación de acumuladores y de pilas eléctricas
+;;3140;Fabricación de acumuladores y de pilas eléctricas
+;315;;Fabricación de lámparas eléctricas y equipo de iluminación 
+;;3150;Fabricación de lámparas eléctricas y equipo de iluminación
+;319;;Fabricación de otros tipos de equipo eléctrico n.c.p.
+;;3190;Fabricación de otros tipos de equipo eléctrico n.c.p.
+DIVISIÓN 32;;;Fabricación de equipo y aparatos de radio, televisión y comunicaciones
+;321;;Fabricación de tubos y válvulas electrónicas y de otros componentes electrónicos
+;;3210;Fabricación de tubos y válvulas electrónicas y de otros componentes electrónicos
+;322;;Fabricación de transmisores de radio y televisión y de aparatos para telefonía y telegrafía
+;;3220;Fabricación de transmisores de radio y televisión y de aparatos para telefonía y telegrafía
+;323;;Fabricación de receptores de radio y televisión, de aparatos de grabación y de reproducción del sonido o de la imagen, y de productos conexos
+;;3230;Fabricación de receptores de radio y televisión, de aparatos de grabación y de reproducción del sonido o de la imagen, y de productos conexos
+DIVISIÓN 33;;;Fabricación de instrumentos médicos, ópticos y de precisión y fabricación de relojes
+;331;;Fabricación de aparatos e instrumentos médicos y de aparatos para medir, verificar, ensayar, navegar y otros fines, excepto instrumentos de óptica
+;;3311;Fabricación de equipo médico y quirúrgico y de aparatos ortésicos y protésicos
+;;3312;Fabricación de instrumentos y aparatos para medir, verificar, ensayar, navegar y otros fines, excepto equipo de control de procesos industriales
+;;3313;Fabricación de equipo de control de procesos industriales
+;332;;Fabricación de instrumentos ópticos y de equipo fotográfico
+;;3320;Fabricación de instrumentos ópticos y de equipo fotográfico
+;333;;Fabricación de relojes
+;;3330;Fabricación de relojes
+DIVISIÓN 34;;;Fabricación de vehículos automotores, remolques y semirremolques
+;341;;Fabricación de vehículos automotores y sus motores
+;;3410;Fabricación de vehículos automotores y sus motores
+;342;;"Fabricación de carrocerías para vehículos automotores; fabricación de remolques y semirremolques"
+;;3420;"Fabricación de carrocerías para vehículos automotores; fabricación de remolques y semirremolques"
+;343;;Fabricación de partes, piezas (autopartes), accesorios (lujos) para vehículos automotores y para sus motores
+;;3430;Fabricación de partes, piezas (autopartes), accesorios (lujos) para vehículos automotores y para sus motores
+DIVISIÓN 35;;;Fabricación de otros tipos de equipo de transporte
+;351;;Construcción y reparación de buques y de otras embarcaciones
+;;3511;Construcción y reparación de buques
+;;3512;Construcción y reparación de embarcaciones de recreo y de deporte
+;352;;Fabricación de locomotoras y de material rodante para ferrocarriles y tranvías
+;;3520;Fabricación de locomotoras y de material rodante para ferrocarriles y tranvías
+;353;;Fabricación de aeronaves y de naves espaciales 
+;;3530;Fabricación de aeronaves y de naves espaciales
+;359;;Fabricación de otros tipos de equipo de transporte n.c.p.
+;;3591;Fabricación de motocicletas
+;;3592;Fabricación de bicicletas y de sillones de ruedas para discapacitados
+;;3599;Fabricación de otros tipos de equipo de transporte n.c.p.
+DIVISIÓN 36;;;"Fabricación de muebles; industrias manufactureras n.c.p."
+;361;;Fabricación de muebles
+;;3611;Fabricación de muebles para el hogar
+;;3612;Fabricación de muebles para oficina
+;;3613;Fabricación de muebles para comercio y servicios
+;;3614;Fabricación de colchones y somieres
+;;3619;Fabricación de otros muebles n.c.p.
+;369;;Industrias manufactureras n.c.p.
+;;3691;Fabricación de joyas y de artículos conexos
+;;3692;Fabricación de instrumentos musicales
+;;3693;Fabricación de artículos deportivos
+;;3694;Fabricación de juegos y juguetes
+;;3699;Otras industrias manufactureras n.c.p.
+DIVISIÓN 37;;;Reciclaje
+;371;;Reciclaje de desperdicios y de desechos metálicos
+;;3710;Reciclaje de desperdicios y de desechos metálicos
+;372;;Reciclaje de desperdicios y de desechos no metálicos
+;;3720;Reciclaje de desperdicios y de desechos no metálicos
+DIVISIÓN 38;;;No asignada
+DIVISIÓN 39;;;No asignada
+SECCIÓN E;;;SUMINISTRO DE ELECTRICIDAD, GAS Y AGUA
+DIVISIÓN 40;;;Suministro de electricidad, gas, vapor y agua caliente
+;401;;Generación, transmisión, distribución y comercialización de energía eléctrica
+;;4010;Generación, transmisión, distribución y comercialización de energía eléctrica
+;402;;"Fabricación de gas; distribución de combustibles gaseosos por tuberías"
+;;4020;"Fabricación de gas; distribución de combustibles gaseosos por tuberías"
+;403;;Suministro de vapor y agua caliente
+;;4030;Suministro de vapor y agua caliente
+DIVISIÓN 41;;;Captación, depuración y distribución de agua
+;410;;Captación, depuración y distribución de agua
+;;4100;Captación, depuración y distribución de agua
+DIVISIÓN 42;;;No Asignada
+DIVISIÓN 43;;;No Asignada
+DIVISIÓN 44;;;No Asignada
+SECCIÓN F;;;CONSTRUCCIÓN
+DIVISIÓN 45;;;Construcción 
+;451;;Preparación del terreno 
+;;4511;Trabajos de demolición y preparación de terrenos para la construcción de edificaciones 
+;;4512;Trabajos de demolición y preparación de terrenos para obras civiles
+;452;;Construcción de edificaciones completas y de partes de edificaciones 
+;;4521;Construcción de edificaciones para uso residencial 
+;;4522;Construcción de edificaciones para uso no residencial 
+;453;;Construcción de obras de ingeniería civil 
+;;4530;Construcción de obras de ingeniería civil 
+;454;;Acondicionamiento de edificaciones y de obras civiles 
+;;4541;Instalaciones hidráulicas y trabajos conexos 
+;;4542;Trabajos de electricidad 
+;;4543;Trabajos de instalación de equipos 
+;;4549;Otros trabajos de acondicionamiento 
+;455;;Terminación y acabado de edificaciones y de obras civiles 
+;;4551;Instalación de vidrios y ventanas 
+;;4552;Trabajos de pintura y terminación de muros y pisos 
+;;4559;Otros trabajos de terminación y acabado 
+;456;;Alquiler de equipo para construcción y demolición dotado de operarios 
+;;4560;Alquiler de equipo para construcción y demolición dotado de operarios 
+SECCIÓN G;;;"COMERCIO AL POR MAYOR Y AL POR MENOR; REPARACIÓN DE VEHÍCULOS AUTOMOTORES, MOTOCICLETAS, EFECTOS PERSONALES Y ENSERES DOMÉSTICOS"
+DIVISIÓN 50;;;"Comercio, mantenimiento y reparación de vehículos automotores y motocicletas, sus partes, piezas y accesorios; comercio al por menor de combustibles y lubricantes para vehículos automotores"
+;501;;Comercio de vehículos automotores
+;;5011;Comercio de vehículos automotores nuevos
+;;5012;Comercio de vehículos automotores usados
+;502;;Mantenimiento y reparación de vehículos automotores
+;;5020;Mantenimiento y reparación de vehículos automotores
+;503;;Comercio de partes, piezas (autopartes) y accesorios (lujos) para vehículos automotores
+;;5030;Comercio de partes, piezas (autopartes) y accesorios (lujos) para vehículos automotores
+;504;;Comercio, mantenimiento y reparación de motocicletas y de sus partes, piezas y accesorios
+;;5040;Comercio, mantenimiento y reparación de motocicletas y de sus partes, piezas y accesorios
+;505;;Comercio al por menor de combustible, lubricantes, aditivos y productos de limpieza para automotores
+;;5051;Comercio al por menor de combustible para automotores
+;;5052;Comercio al por menor de lubricantes (aceites, grasas), aditivos y productos de limpieza para vehículos automotores
+DIVISIÓN 51;;;"Comercio al por mayor y en comisión o por contrata, excepto el comercio de vehículos automotores y motocicletas; mantenimiento y reparación de maquinaria y equipo"
+;511;;Comercio al por mayor a cambio de una retribución o por contrata
+;;5111;Comercio al por mayor a cambio de una retribución o por contrata de productos agrícolas (excepto café), silvícolas y de animales vivos y sus productos
+;;5112;Comercio al por mayor a cambio de una retribución o por contrata de café pergamino
+;;5113;Comercio al por mayor a cambio de una retribución o por contrata de productos manufacturados
+;;5119;Comercio al por mayor a cambio de una retribución o por contrata de productos n.c.p.
+;512;;"Comercio al por mayor de materias primas agropecuarias; animales vivos; alimentos, bebidas y tabaco"
+;;5121;Comercio al por mayor de materias primas, productos agrícolas y pecuarios, excepto café y flores
+;;5122;Comercio al por mayor de café pergamino
+;;5123;Comercio al por mayor de flores y plantas ornamentales
+;;5124;Comercio al por mayor de materias primas pecuarias y de animales vivos y sus productos
+;;5125;Comercio al por mayor de productos alimenticios, excepto café trillado
+;;5126;Comercio al por mayor de café trillado
+;;5127;Comercio al por mayor de bebidas y productos del tabaco
+;513;;Comercio al por mayor de productos de uso doméstico
+;;5131;Comercio al por mayor de productos textiles y productos confeccionados para uso doméstico
+;;5132;Comercio al por mayor de prendas de vestir, accesorios de prendas de vestir y artículos elaborados en piel
+;;5133;Comercio al por mayor de calzado
+;;5134;Comercio al por mayor de aparatos, artículos y equipo de uso doméstico 
+;;5135;Comercio al por mayor de productos farmacéuticos, medicinales, cosméticos y de tocador
+;;5136;Comercio al por mayor de equipos médicos y quirúrgicos y de aparatos ortésicos y protésicos
+;;5137;"Comercio al por mayor de papel y cartón; productos de papel y cartón"
+;;5139;Comercio al por mayor de otros productos de consumo n.c.p.
+;514;;Comercio al por mayor de materiales de construcción, vidrio, equipo y materiales de fontanería
+;;5141;Comercio al por mayor de materiales de construcción, vidrio, artículos de ferretería y equipo y materiales de fontanería y calefacción
+;;5142;Comercio al por mayor de pinturas y productos conexos
+;515;;Comercio al por mayor de productos intermedios, desperdicios y desechos no agropecuarios
+;;5151;Comercio al por mayor de combustibles sólidos, líquidos, gaseosos y de productos conexos
+;;5152;Comercio al por mayor de metales y minerales metalíferos
+;;5153;Comercio al por mayor de productos químicos básicos, plásticos y caucho en formas primarias y productos químicos de uso agropecuario 
+;;5154;Comercio al por mayor de fibras textiles
+;;5155;Comercio al por mayor de desperdicios o desechos industriales y material para reciclaje
+;;5159;Comercio al por mayor de otros productos intermedios n.c.p.
+;516;;Comercio al por mayor de todo tipo de maquinaria y equipo, excepto comercio de vehículos automotores
+;;5161;Comercio al por mayor de maquinaria y equipo para la agricultura, minería, construcción y la industria
+;;5162;Comercio al por mayor de equipo de transporte, excepto vehículos automotores y motocicletas
+;;5163;Comercio al por mayor de maquinaria y equipos de oficina 
+;;5164;Comercio al por mayor de computadores, equipo periférico y de programas de informática
+;;5165;Comercio al por mayor de partes y equipos electrónicos y de comunicaciones
+;;5169;Comercio al por mayor de maquinaria y equipo n.c.p.
+;517;;Mantenimiento y reparación de maquinaria y equipo
+;;5170;Mantenimiento y reparación de maquinaria y equipo
+;519;;Comercio al por mayor de productos diversos n.c.p.
+;;5190;Comercio al por mayor de productos diversos n.c.p.
+DIVISIÓN 52;;;"Comercio al por menor, excepto el comercio de vehículos automotores y motocicletas; reparación de efectos personales y enseres domésticos"
+;521;;Comercio al por menor en establecimientos no especializados
+;;5211;Comercio al por menor, en establecimientos no especializados, con surtido compuesto principalmente de alimentos (víveres en general), bebidas y tabaco
+;;5219;Comercio al por menor en establecimientos no especializados, con surtido compuesto principalmente por productos diferentes de alimentos (víveres en general), bebidas y tabaco
+;522;;Comercio al por menor de alimentos (víveres en general), bebidas y tabaco, en establecimientos especializados
+;;5221;Comercio al por menor de frutas y verduras, en establecimientos especializados
+;;5222;Comercio al por menor de leche, productos lácteos y huevos, en establecimientos especializados
+;;5223;Comercio al por menor de carnes (incluye aves de corral), productos cárnicos, pescados y productos de mar, en establecimientos especializados
+;;5224;Comercio al por menor de productos de confitería, en establecimientos especializados 
+;;5225;Comercio al por menor de bebidas y productos del tabaco, en establecimientos especializados
+;;5229;Comercio al por menor de otros productos alimenticios n.c.p., en establecimientos especializados
+;523;;Comercio al por menor de productos nuevos de consumo doméstico, en establecimientos especializados
+;;5231;"Comercio al por menor de productos farmacéuticos, medicinales y odontológicos; artículos de perfumería, cosméticos y de tocador, en establecimientos especializados "
+;;5232;Comercio al por menor de productos textiles, en establecimientos especializados
+;;5233;Comercio al por menor de prendas de vestir y sus accesorios (incluye artículos de piel), en establecimientos especializados
+;;5234;Comercio al por menor de todo tipo de calzado, artículos de cuero y sucedáneos del cuero, en establecimientos especializados
+;;5235;Comercio al por menor de electrodomésticos, en establecimientos especializados
+;;5236;Comercio al por menor de muebles para el hogar, en establecimientos especializados
+;;5237;Comercio al por menor de equipo y artículos de uso doméstico diferentes de electrodomésticos y muebles para el hogar, en establecimientos especializados 
+;;5239;Comercio al por menor de productos nuevos de consumo doméstico n.c.p., en establecimientos especializados
+;524;;Comercio al por menor de otros nuevos productos de consumo, en establecimientos especializados
+;;5241;Comercio al por menor de materiales de construcción, artículos de ferretería, cerrajería y productos de vidrio, excepto pinturas, en establecimientos especializados
+;;5242;Comercio al por menor de pinturas, en establecimientos especializados
+;;5243;Comercio al por menor de muebles para oficina, maquinaria y equipo de oficina, computadores y programas de computador, en establecimientos especializados 
+;;5244;Comercio al por menor de libros, periódicos, materiales y artículos de papelería y escritorio, en establecimientos especializados
+;;5245;Comercio al por menor de equipo fotográfico, en establecimientos especializados
+;;5246;Comercio al por menor de equipo óptico y de precisión, en establecimientos especializados
+;;5249;Comercio al por menor de otros nuevos productos de consumo n.c.p., en establecimientos especializados
+;525;;Comercio al por menor de artículos usados y actividades de compraventa con pacto de retroventa, en establecimientos especializados
+;;5251;Comercio al por menor de artículos usados, en establecimientos especializados
+;;5252;Actividades de compraventa con pacto de retroventa
+;526;;Comercio al por menor no realizado en establecimientos
+;;5261;Comercio al por menor a través de casas de venta por correo
+;;5262;Comercio al por menor en puestos móviles
+;;5269;Otros tipos de comercio al por menor no realizado en establecimientos
+;527;;Reparación de efectos personales y enseres domésticos
+;;5271;Reparación de efectos personales
+;;5272;Reparación de enseres domésticos
+DIVISIÓN 53;;;No asignada
+DIVISIÓN 54;;;No asignada
+SECCIÓN H ;;;HOTELES Y RESTAURANTES
+DIVISIÓN 55;;;Hoteles, restaurantes, bares y similares
+;551;;Alojamiento en hoteles, campamentos y otros tipos de hospedaje no permanente
+;;5511;Alojamiento en hoteles, hostales y apartahoteles
+;;5512;Alojamiento en residencias, moteles y amoblados
+;;5513;Alojamiento en centros vacacionales y zonas de camping 
+;;5519;Otros tipos de alojamiento n.c.p.
+;552;;Expendio de alimentos preparados en el sitio de venta
+;;5521;Expendio a la mesa de comidas preparadas en restaurantes
+;;5522;Expendio a la mesa de comidas preparadas en cafeterías
+;;5523;Expendio por autoservicio de comidas preparadas en restaurantes
+;;5524;Expendio por autoservicio de comidas preparadas en cafeterías
+;;5525;Servicios de alimentación bajo contrato (catering)
+;;5529;Otros tipos de expendio n.c.p. de alimentos preparados
+;553;;Expendio de bebidas alcohólicas para el consumo dentro del establecimiento
+;;5530;Expendio de bebidas alcohólicas para el consumo dentro del establecimiento
+DIVISIÓN 56;;;No asignada
+DIVISIÓN 57;;;No asignada
+DIVISIÓN 58;;;No asignada
+DIVISIÓN 59;;;No asignada
+SECCIÓN I;;;TRANSPORTE, ALMACENAMIENTO Y COMUNICACIONES
+DIVISIÓN 60;;;"Transporte por vía terrestre; transporte por tuberías"
+;601;;Transporte por vía férrea
+;;6010;Transporte por vía férrea
+;602;;Transporte colectivo regular de pasajeros por vía terrestre
+;;6021;Transporte urbano colectivo regular de pasajeros
+;;6022;Transporte intermunicipal colectivo regular de pasajeros
+;;6023;Transporte internacional colectivo regular de pasajeros
+;603;;Transporte no regular de pasajeros por vía terrestre
+;;6031;Transporte no regular individual de pasajeros
+;;6032;Transporte no regular colectivo de pasajeros
+;;6039;Otros tipos de transporte no regular de pasajeros n.c.p
+;604;;Transporte de carga por carretera
+;;6041;Transporte municipal de carga por carretera
+;;6042;Transporte intermunicipal de carga por carretera
+;;6043;Transporte internacional de carga por carretera
+;;6044;Alquiler de vehículos de carga con conductor
+;605;;Transporte por tuberías
+;;6050;Transporte por tuberías
+DIVISIÓN 61;;;Transporte por vía acuática
+;611;;Transporte marítimo y de cabotaje
+;;6111;Transporte marítimo internacional
+;;6112;Transporte marítimo de cabotaje
+;612;;Transporte fluvial
+;;6120;Transporte fluvial
+DIVISIÓN 62;;;Transporte por vía aérea
+;621;;Transporte regular por vía aérea
+;;6211;Transporte regular nacional de pasajeros, por vía aérea
+;;6212;Transporte regular nacional de carga, por vía aérea
+;;6213;Transporte regular internacional de pasajeros, por vía aérea
+;;6214;Transporte regular internacional de carga, por vía aérea
+;622;;Transporte no regular, por vía aérea
+;;6220;Transporte no regular, por vía aérea
+DIVISIÓN 63;;;"Actividades complementarias y auxiliares al transporte; actividades de agencias de viajes"
+;631;;Manipulación de carga
+;;6310;Manipulación de carga
+;632;;Almacenamiento y depósito
+;;6320;Almacenamiento y depósito
+;633;;Actividades de las estaciones, vías y servicios complementarios para el transporte
+;;6331;Actividades de estaciones, vías y servicios complementarios para el transporte terrestre
+;;6332;Actividades de estaciones y servicios complementarios para el transporte acuático
+;;6333;Actividades de aeropuertos y servicios complementarios para el transporte aéreo
+;;6339;Otras actividades complementarias del transporte
+;634;;"Actividades de agencias de viajes y organizadores de viajes; actividades de asistencia a turistas n.c.p"
+;;6340;"Actividades de agencias de viajes y organizadores de viajes; actividades de asistencia a turistas n.c.p"
+;639;;Actividades de otros operadores logísticos
+;;6390;Actividades de otros operadores logísticos
+DIVISIÓN 64;;;Correo y telecomunicaciones
+;641;;Actividades postales y de correo
+;;6411;Actividades postales nacionales
+;;6412;Actividades de correo distintas de las actividades postales nacionales
+;642;;Telecomunicaciones
+;;6421;Servicios telefónicos y básicos
+;;6422;Servicios de transmisión e intercambio de datos 
+;;6423;Servicios de transmisión de programas de radio y televisión
+;;6424;Servicios de transmisión de radio y televisión por suscripción
+;;6429;Otros servicios de telecomunicaciones n.c.p.
+SECCIÓN J;;;INTERMEDIACIÓN FINANCIERA
+DIVISIÓN 65;;;Intermediación financiera, excepto el establecimiento y gestión de planes de seguros, de pensiones y cesantías
+;651;;Intermediación monetaria
+;;6511;Banca central
+;;6512;Actividades de los bancos diferentes del banco central
+;;6513;Actividades de las corporaciones financieras
+;;6514;Actividades de las compañías de financiamiento comercial
+;;6515;Actividades de las cooperativas financieras
+;;6519;Otros tipos de intermediación monetaria n.c.p.
+;659;;Otros tipos de intermediación financiera
+;;6591;Leasing financiero
+;;6592;Actividades financieras de fondos de empleados y otras formas asociativas del sector solidario
+;;6593;Actividades de las sociedades de capitalización
+;;6594;Actividades de compra de cartera o factoring
+;;6595;Otros tipos de crédito
+;;6596;Banca de segundo piso
+;;6599;Otros tipos de intermediación financiera n.c.p.
+DIVISIÓN 66;;;Establecimiento y gestión de planes de seguros, de pensiones y cesantías, excepto los planes de seguridad social de afiliación obligatoria
+;660;;Establecimiento y gestión de planes de seguros, de pensiones y cesantías, excepto los planes de seguridad social de afiliación obligatoria
+;;6601;Planes de seguros generales
+;;6602;Planes de seguros de vida
+;;6603;Planes de reaseguros
+;;6604;Planes de pensiones y cesantías
+DIVISIÓN 67;;;Actividades de servicios auxiliares de la intermediación financiera
+;671;;Actividades de servicios auxiliares de la intermediación financiera, excepto el establecimiento y gestión de planes de seguros, de pensiones y cesantías
+;;6711;Administración de mercados financieros
+;;6712;Actividades de las bolsas de valores
+;;6713;Actividades bursátiles
+;;6714;Otras actividades relacionadas con el mercado de valores
+;;6715;Actividades de las casas de cambio
+;;6716;Actividades de los profesionales de compra y venta de divisas
+;;6717;Actividades de las sociedades fiduciarias
+;;6719;Actividades de servicios auxiliares de la intermediación financiera n.c.p.
+;672;;Actividades de servicios auxiliares del establecimiento y gestión de planes de seguros, de pensiones y cesantías
+;;6721;Actividades de servicios auxiliares del establecimiento y gestión de planes de seguros
+;;6722;Actividades de servicios auxiliares de los fondos de pensiones y cesantías
+DIVISIÓN 68;;;No asignada
+DIVISIÓN 69;;;No asignada
+SECCIÓN K;;;ACTIVIDADES INMOBILIARIAS, DE ALQUILER Y EMPRESARIALES
+DIVISIÓN 70;;;Actividades inmobiliarias 
+;701;;Actividades inmobiliarias realizadas con bienes propios o arrendados
+;;7010;Actividades inmobiliarias realizadas con bienes propios o arrendados 
+;702;;Actividades inmobiliarias realizadas a cambio de una retribución o por contrata
+;;7020;Actividades inmobiliarias realizadas a cambio de una retribución o por contrata
+DIVISIÓN 71;;;Alquiler de maquinaria y equipo sin operarios y de efectos personales y enseres domésticos
+;711;;Alquiler de equipo de transporte
+;;7111;Alquiler de equipo de transporte terrestre 
+;;7112;Alquiler de equipo de transporte acuático
+;;7113;Alquiler de equipo de transporte aéreo
+;712;;Alquiler de otros tipos de maquinaria y equipo 
+;;7121;Alquiler de maquinaria y equipo agropecuario y forestal
+;;7122;Alquiler de maquinaria y equipo de construcción y de ingeniería civil
+;;7123;Alquiler de maquinaria y equipo de oficina (incluso computadoras )
+;;7129;Alquiler de otros tipos de maquinaria y equipo n.c.p.
+;713;;Alquiler de efectos personales y enseres domésticos n.c.p.
+;;7130;Alquiler de efectos personales y enseres domésticos n.c.p.
+DIVISIÓN 72;;;Informática y Actividades conexas
+;721;;Consultores en equipo de informática
+;;7210;Consultores en equipo de informática 
+;722;;Consultores en programas de informática, elaboración y suministro de programas de informática
+;;7220;Consultores en programas de informática, elaboración y suministro de programas de informática
+;723;;Procesamiento de datos
+;;7230;Procesamiento de datos
+;724;;Actividades relacionadas con bases de datos y distribución en línea de contenidos electrónicos
+;;7240;Actividades relacionadas con bases de datos y distribución en línea de contenidos electrónicos
+;725;;Mantenimiento y reparación de maquinaria de oficina, contabilidad e informática
+;;7250;Mantenimiento y reparación de maquinaria de oficina, contabilidad e informática
+;729;;Otras actividades de informática
+;;7290;Otras actividades de informática
+DIVISIÓN 73;;;Investigación y desarrollo 
+;731;;Investigación y desarrollo experimental en el campo de las ciencias naturales, ciencias de la salud, ciencias agropecuarias y la ingeniería 
+;;7310;Investigación y desarrollo experimental en el campo de las ciencias naturales, ciencias de la salud, ciencias agropecuarias y la ingeniería 
+;732;;Investigación y desarrollo experimental en el campo de las ciencias sociales y las humanidades 
+;;7320;Investigación y desarrollo experimental en el campo de las ciencias sociales y las humanidades 
+DIVISIÓN 74;;;Otras actividades empresariales 
+;741;;"Actividades jurídicas y de contabilidad, teneduría de libros y auditoría; asesoramiento en materia de impuestos; estudio de mercados y realización de encuestas de encuestas de opinión publica; asesoramiento empresarial y en materia de gestión "
+;;7411;Actividades jurídicas 
+;;7412;"Actividades de contabilidad, teneduría de libros y auditoria; asesoramiento en materia de impuestos"
+;;7413;Investigación de mercados y realización de encuestas de opinión publica 
+;;7414;Actividades de asesoramiento empresarial y en materia de gestión
+;742;;Actividades de arquitectura e ingeniería y otras actividades técnicas
+;;7421;Actividades de arquitectura e ingeniería y actividades conexas de asesoramiento técnico
+;;7422;Ensayos y análisis técnicos
+;743;;Publicidad
+;;7430;Publicidad
+;749;;Actividades empresariales n.c.p.
+;;7491;Obtención y suministro de personal 
+;;7492;Actividades de investigación y seguridad 
+;;7493;Actividades de limpieza de edificios y de limpieza industrial
+;;7494;Actividades de fotografía 
+;;7495;Actividades de envase y empaque
+;;7499;Otras actividades empresariales n.c.p.
+SECCIÓN L;;;"ADMINISTRACIÓN PÚBLICA Y DEFENSA; PLANES DE SEGURIDAD SOCIAL DE AFILIACIÓN OBLIGATORIA "
+DIVISIÓN 75;;;"Administración pública y defensa; planes de seguridad social de afiliación obligatoria"
+;751;;Administración del Estado y aplicación de la política económica y social de la comunidad
+;;7511;Actividades legislativas de la administración pública
+;;7512;Actividades ejecutivas de la administración pública
+;;7513;Regulación de las actividades de organismos que prestan servicios de salud, educativos, culturales y otros servicios sociales, excepto servicios de seguridad social
+;;7514;Actividades reguladoras y facilitadoras de la actividad económica
+;;7515;Actividades auxiliares de servicios para la administración pública en general
+;;7519;Otras actividades administrativas del Estado n.c.p.
+;752;;Prestación de servicios a la comunidad en general
+;;7521;Relaciones exteriores
+;;7522;Actividades de defensa
+;;7523;Actividades de la justicia
+;;7524;Actividades de la policía y protección civil
+;753;;Actividades de planes de seguridad social de afiliación obligatoria
+;;7530;Actividades de planes de seguridad social de afiliación obligatoria
+DIVISIÓN 76;;;No asignada
+DIVISIÓN 77;;;No asignada
+DIVISIÓN 78;;;No asignada
+DIVISIÓN 79;;;No asignada
+SECCIÓN M;;;EDUCACIÓN
+DIVISIÓN 80;;;Educación
+;801;;Educación preescolar y básica primaria
+;;8011;Educación preescolar
+;;8012;Educación básica primaria
+;802;;Educación secundaria
+;;8021;Educación básica secundaria
+;;8022;Educación media académica
+;;8023;Educación media de formación técnica y profesional
+;803;;Educación superior
+;;8030;Educación superior
+;809;;Otros tipos de educación
+;;8090;Otros tipos de educación
+DIVISIÓN 81;;;No asignada
+DIVISIÓN 82;;;No asignada
+DIVISIÓN 83;;;No asignada
+DIVISIÓN 84;;;No asignada
+SECCIÓN N;;;SERVICIOS SOCIALES Y DE SALUD 
+DIVISIÓN 85;;;Servicios sociales y de salud
+;851;;Actividades relacionadas con la salud humana
+;;8511;Actividades de las instituciones prestadoras de servicios de salud, con internación
+;;8512;Actividades de la práctica médica
+;;8513;Actividades de la práctica odontológica
+;;8514;Actividades de apoyo diagnóstico
+;;8515;Actividades de apoyo terapéutico
+;;8519;Otras actividades relacionadas con la salud humana
+;852;;Actividades veterinarias
+;;8520;Actividades veterinarias
+;853;;Actividades de servicios sociales
+;;8531;Servicios sociales con alojamiento
+;;8532;Servicios sociales sin alojamiento
+DIVISIÓN 86;;;No asignada
+DIVISIÓN 87;;;No asignada
+DIVISIÓN 88;;;No asignada
+DIVISIÓN 89;;;No asignada
+SECCIÓN O;;;OTRAS ACTIVIDADES DE SERVICIOS COMUNITARIOS, SOCIALES Y PERSONALES 
+DIVISIÓN 90;;;Eliminación de desperdicios y aguas residuales, saneamiento y actividades similares
+;900;;Eliminación de desperdicios y aguas residuales, saneamiento y actividades similares
+;;9000;Eliminación de desperdicios y aguas residuales, saneamiento y actividades similares
+DIVISIÓN 91;;;Actividades de asociaciones n.c.p.
+;911;;Actividades de organizaciones empresariales, profesionales y de empleadores
+;;9111;Actividades de organizaciones empresariales y de empleadores
+;;9112;Actividades de organizaciones profesionales
+;912;;Actividades de sindicatos
+;;9120;Actividades de sindicatos
+;919;;Actividades de otras asociaciones
+;;9191;Actividades de organizaciones religiosas
+;;9192;Actividades de organizaciones políticas
+;;9199;Actividades de otras organizaciones n.c.p.
+DIVISIÓN 92;;;Actividades de esparcimiento y actividades culturales y deportivas
+;921;;Actividades de cinematografía, radio y televisión y otras actividades de entretenimiento 
+;;9211;Producción y distribución de filmes y videocintas
+;;9212;Exhibición de filmes y videocintas
+;;9213;Actividades de radio y televisión
+;;9214;Actividades teatrales, musicales y otras actividades artísticas
+;;9219;Otras actividades de entretenimiento n.c.p.
+;922;;Actividades de agencias de noticias
+;;9220;Actividades de agencias de noticias
+;923;;Actividades de bibliotecas, archivos, museos y otras actividades culturales 
+;;9231;Actividades de bibliotecas y archivos
+;;9232;Actividades de museos y preservación de lugares y edificios históricos
+;;9233;Actividades de jardines botánicos y zoológicos y de parques nacionales
+;924;;Actividades deportivas y otras actividades de esparcimiento
+;;9241;Actividades deportivas
+;;9242;Actividades de juegos de azar
+;;9249;Otras actividades de esparcimiento
+DIVISIÓN 93;;;Otras actividades de servicios
+;930;;Otras actividades de servicios
+;;9301;Lavado y limpieza de prendas de tela y de piel, incluso la limpieza en seco
+;;9302;Peluquería y otros tratamientos de belleza
+;;9303;Pompas fúnebres y actividades conexas
+;;9309;Otras actividades de servicios n.c.p.
+DIVISIÓN 94;;;No asignada
+SECCIÓN P;;;ACTIVIDADES DE HOGARES PRIVADOS COMO EMPLEADORES Y ACTIVIDADES NO DIFERENCIADAS DE HOGARES PRIVADOS COMO PRODUCTORES
+DIVISIÓN 95;;;Actividades de hogares privados como empleadores de personal doméstico
+;950;;Actividades de hogares privados como empleadores de personal doméstico
+;;9500;Actividades de hogares privados como empleadores de personal doméstico
+DIVISIÓN 96;;;Actividades no diferenciadas de hogares privados como productores de bienes para uso propio
+;960;;Actividades no diferenciadas de hogares privados como productores de bienes para uso propio
+;;9600;Actividades no diferenciadas de hogares privados como productores de bienes para uso propio
+DIVISIÓN 97;;;Actividades no diferenciadas de hogares privados como productores de servicios para uso propio
+;970;;Actividades no diferenciadas de hogares privados como productores de servicios para uso propio
+;;9700;Actividades no diferenciadas de hogares privados como productores de servicios para uso propio
+SECCIÓN Q;;;ORGANIZACIONES Y ÓRGANOS EXTRATERRITORIALES
+DIVISIÓN 99;;;Organizaciones y órganos extraterritoriales
+;990;;Organizaciones y órganos extraterritoriales
+;;9900;Organizaciones y órganos extraterritoriales
